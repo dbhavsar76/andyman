@@ -1,0 +1,127 @@
+{
+  "fill": {
+    "linear-gradient": [
+      "srgb:0.20392,0.22353,0.26667,1.00000",
+      "srgb:0.08627,0.09412,0.11373,1.00000"
+    ],
+    "orientation": {
+      "start": {
+        "x": 0.5,
+        "y": 0
+      },
+      "stop": {
+        "x": 0.5,
+        "y": 1
+      }
+    }
+  },
+  "groups": [
+    {
+      "name": "left",
+      "layers": [
+        {
+          "image-name": "left.svg",
+          "name": "left",
+          "fill": {
+            "linear-gradient": [
+              "srgb:0.65098,0.94902,0.54118,1.00000",
+              "srgb:0.21961,0.74510,0.36863,1.00000"
+            ],
+            "orientation": {
+              "start": {
+                "x": 0.5,
+                "y": 0
+              },
+              "stop": {
+                "x": 0.5,
+                "y": 1
+              }
+            }
+          },
+          "glass": true
+        }
+      ],
+      "shadow": {
+        "kind": "neutral",
+        "opacity": 0.5
+      },
+      "translucency": {
+        "enabled": true,
+        "value": 0.25
+      }
+    },
+    {
+      "name": "right",
+      "layers": [
+        {
+          "image-name": "right.svg",
+          "name": "right",
+          "fill": {
+            "linear-gradient": [
+              "srgb:0.38824,0.71373,1.00000,1.00000",
+              "srgb:0.17255,0.42353,0.90980,1.00000"
+            ],
+            "orientation": {
+              "start": {
+                "x": 0.5,
+                "y": 0
+              },
+              "stop": {
+                "x": 0.5,
+                "y": 1
+              }
+            }
+          },
+          "glass": true
+        }
+      ],
+      "shadow": {
+        "kind": "neutral",
+        "opacity": 0.5
+      },
+      "translucency": {
+        "enabled": true,
+        "value": 0.25
+      }
+    },
+    {
+      "name": "layer",
+      "layers": [
+        {
+          "image-name": "layer.svg",
+          "name": "layer",
+          "fill": {
+            "linear-gradient": [
+              "srgb:0.16471,0.35686,0.78431,1.00000",
+              "srgb:0.10196,0.22745,0.55686,1.00000"
+            ],
+            "orientation": {
+              "start": {
+                "x": 0.5,
+                "y": 0
+              },
+              "stop": {
+                "x": 0.5,
+                "y": 1
+              }
+            }
+          },
+          "glass": true
+        }
+      ],
+      "shadow": {
+        "kind": "neutral",
+        "opacity": 0.5
+      },
+      "translucency": {
+        "enabled": true,
+        "value": 0.25
+      }
+    }
+  ],
+  "supported-platforms": {
+    "squares": [
+      "macOS"
+    ]
+  }
+}

@@ -71,3 +71,9 @@ embeds the `andyman` CLI. The core library has its own tests:
 ```bash
 swift test --package-path AndroidKit
 ```
+
+## License
+
+MIT. See [LICENSE](LICENSE).
+
+Android is a trademark of Google LLC. Andyman is not affiliated with or endorsed by Google.
